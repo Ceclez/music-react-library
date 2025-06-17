@@ -1,0 +1,14 @@
+/*-- RESET GENERAL --*/
+:root {
+    box-sizing: border-box ;
+    font-family: helvetica, sans-serif, arial ;
+    font-size: 10px ;
+}
+
+body {
+    width: 100% ;
+    height: auto ;
+    margin: 0 ;
+    padding: 0 ;
+    background: #111 ;
+}

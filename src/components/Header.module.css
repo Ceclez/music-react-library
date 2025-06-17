@@ -1,0 +1,12 @@
+/*-- ESTILOS PARA EL HEADER --*/
+.header {
+    padding: 10px 15px ;
+    text-align: center ;
+    margin: 0;
+    background: #ccc ;
+    font-size: 12px;
+    font-weight: 600 ;
+    color: #ddd;
+    background: #111 ;
+    border-bottom: 1px solid #333 ;
+}

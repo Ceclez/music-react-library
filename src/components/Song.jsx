@@ -22,7 +22,7 @@ class Song extends Component {
         <div className={songs.songIconBlock}>
           <h3>{song}</h3>
           <img
-            src="../img/favorite-icon.svg"
+            src="img/favorite-icon.svg"
             className={songs.favoriteIcon}
             alt="Ícono de corazón para marcar como favorito"
           />
